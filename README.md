@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Fozkyz.
+- 👋 Hi, I’m Paul @Fozkyz Nivoix.
 - I am studying Computer Engineering and Computer Science at the University of Technology, Compiègne, France, and I make games in my free time.
 - On my Github page you will find most of my university projects as well as some of my own made games.
 - 📫 Feel free to reach me via email : fozkyz@gmail.com 
